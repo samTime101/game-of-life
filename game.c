@@ -31,7 +31,7 @@ int main()
     scanf("%d", &data);
     for (int i = 0; i < data; i++)
     {
-        printf("enter position for %d cell (format:row,column) best starting position(10,10):",i+1);
+        printf("enter position for %d cell (format:row,column) example position(%d,10):",i+1,i+10);
         scanf("%d,%d", &x, &y);
         mat[x][y] = 1;
     }
