@@ -31,7 +31,7 @@ int main()
     scanf("%d", &data);
     for (int i = 0; i < data; i++)
     {
-        printf("enter position (format:row,column)");
+        printf("enter position (format:row,column) best position(10,10)");
         scanf("%d,%d", &x, &y);
         mat[x][y] = 1;
     }
