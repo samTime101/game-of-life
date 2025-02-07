@@ -1,8 +1,11 @@
 # Game Of Life
 Implemented in C using [Raylib](https://github.com/raysan5/raylib)
 
-The codes in any of the folders are not properly formatted , 
-the best one if `main.c` which you can compile and run
+> [!CAUTION]
+> The codes in any of the `folders` are not properly formatted  and are from `2 years ago`,
+
+> [!TIP]
+> The best one is `main.c` which you can compile and run
 
 ### Compilatiom
 ```make
